@@ -1,5 +1,7 @@
 # Completed task files
 AppDrawer.kt
+Post.kt
+HomeScreen.kt
 
 # Built application files
 *.apk
